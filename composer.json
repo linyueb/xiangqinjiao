@@ -33,7 +33,7 @@
             "Lyue\\Restful\\": "lyue/restful/src"
         },
         "files":[
-            "app/Helper/Helper.php"
+            "app/Helper/helper.php"
         ]
     },
     "autoload-dev": {
